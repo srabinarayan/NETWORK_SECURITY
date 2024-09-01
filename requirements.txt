@@ -4,5 +4,12 @@ numpy
 pymongo
 certifi 
 pymongo[srv]
-
+scikit-learn
+pyyaml
+dill
+xgboost
+fastapi
+uvicorn
+apache-airflow
+python-multipart
 -e .
