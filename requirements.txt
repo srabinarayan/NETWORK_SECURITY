@@ -12,4 +12,5 @@ fastapi
 uvicorn
 apache-airflow
 python-multipart
+dvc
 -e .
